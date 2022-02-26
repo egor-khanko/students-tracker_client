@@ -8,11 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.30.3",
     "antd": "^4.18.6",
+    "axios": "^0.26.0",
     "consola": "^2.15.3",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "vite-plugin-style-import": "^2.0.0"
+    "react-router-dom": "6",
+    "vite-plugin-style-import": "^2.0.0",
+    "zustand": "^3.7.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
